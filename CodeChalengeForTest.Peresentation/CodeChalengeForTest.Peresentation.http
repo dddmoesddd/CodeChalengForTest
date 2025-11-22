@@ -1,0 +1,6 @@
+@CodeChalengeForTest.Peresentation_HostAddress = http://localhost:5081
+
+GET {{CodeChalengeForTest.Peresentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
